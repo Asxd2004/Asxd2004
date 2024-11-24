@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asxd2004
 - 👀 I’m interested in DSA
-- 🌱 I’m currently learning DSA in (JAVA)
+- 🌱 I’m currently learning DSA in (c++)
 - 💞️ I’m looking to collaborate on Any start ups for improve my DSA skills
 - 📫 How to reach me asad19shaikh04@gmail.com this is my gmail account
 - 😄 Pronouns: ...
